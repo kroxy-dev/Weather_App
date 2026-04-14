@@ -58,4 +58,4 @@ if __name__ == "__main__":
     api_key = input("Enter your API key: ")
     app = WeatherApp(api_key)
     app.run()
-    #testestetst
+    
